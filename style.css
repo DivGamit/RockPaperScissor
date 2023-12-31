@@ -1,0 +1,18 @@
+.choiceBtn{
+    line-height: 60px;
+    width: 160px;
+}
+#gameDiv{
+    font-family: "";
+    border: 5px solid;
+    border-radius: 55px;
+    padding: 60px;
+    background-color: rgb(182, 143, 143);
+    text-align: center;
+}
+#playerText{
+    color: blue;
+}
+#computerText{
+    color: red;
+}
